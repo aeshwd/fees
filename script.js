@@ -20,7 +20,6 @@ const players = [
     { name: 'Chinmay', feesDate: '7 Nov',  status: 'pending' },
     { name: 'Gurshabad', feesDate: '21 Nov',  status: 'pending' },
     { name: 'Garvit', feesDate: '29 Nov',  status: 'pending' },
-    { name: 'Kaashvi', feesDate: '24 Nov',  status: 'pending' },
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
