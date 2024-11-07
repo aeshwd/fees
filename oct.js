@@ -1,5 +1,6 @@
 // Initial array of players with fee status details
 const players = [
+    { name: 'Blessy', feesDate: '07 Oct',  status: 'pending' }, 
     { name: 'Bhavya', feesDate: '01 Oct',  status: 'paid' },
     { name: 'Gurman', feesDate: '03 Oct',  status: 'paid' },
     { name: 'Atharv', feesDate: '21 Oct',  status: 'paid' },
@@ -16,7 +17,6 @@ const players = [
     { name: 'Kashika', feesDate: '07 Oct',  status: 'paid' },
     { name: 'Vihaan', feesDate: '01 Oct',  status: 'paid' },
     { name: 'Aryan', feesDate: '01 Oct',  status: 'paid' },
-    { name: 'Blessy', feesDate: '07 Oct',  status: 'pending' }, 
     { name: 'Chinmay', feesDate: '7 Oct',  status: 'paid' },
     { name: 'Gurshabad', feesDate: '21 Oct',  status: 'paid' }
 ];
