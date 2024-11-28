@@ -9,8 +9,6 @@ const players = [
     { name: 'Vega', feesDate: '28 Dec',  status: 'pending' },
     { name: 'Mehransh', feesDate: '06 Dec',  status: 'pending' },
     { name: 'Yuvraj', feesDate: '01 Dec',  status: 'pending' },
-    { name: 'Rabaab', feesDate: '14 Dec',  status: 'pending' },
-    { name: 'Athman', feesDate: '14 Dec',  status: 'pending' },
     { name: 'Devansh', feesDate: '18 Dec',  status: 'pending' },
     { name: 'Sukhmehar', feesDate: '19 Dec',  status: 'pending' },
     { name: 'Garvit', feesDate: '29 Dec',  status: 'pending' },
