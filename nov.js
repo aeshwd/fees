@@ -8,16 +8,14 @@ const players = [
     { name: 'Vega', feesDate: '28 Nov',  status: 'pending' },
     { name: 'Mehransh', feesDate: '06 Nov',  status: 'paid' },
     { name: 'Yuvraj', feesDate: '01 Nov',  status: 'paid' },
-    { name: 'Rabaab', feesDate: '14 Nov',  status: 'pending' },
-    { name: 'Athman', feesDate: '14 Nov',  status: 'paid' },
     { name: 'Devansh', feesDate: '18 Nov',  status: 'paid' },
-    { name: 'Sukhmehar', feesDate: '19 Nov',  status: 'pending' },
+    { name: 'Sukhmehar', feesDate: '19 Nov',  status: 'paid' },
     { name: 'Kashika', feesDate: '07 Nov',  status: 'paid' },
     { name: 'Vihaan', feesDate: '01 Nov',  status: 'paid' },
     { name: 'Aryan', feesDate: '01 Nov',  status: 'paid' },
     { name: 'Blessy', feesDate: '07 Nov',  status: 'paid' }, 
     { name: 'Chinmay', feesDate: '7 Nov',  status: 'paid' },
-    { name: 'Gurshabad', feesDate: '21 Nov',  status: 'pending' },
+    { name: 'Gurshabad', feesDate: '21 Nov',  status: 'paid' },
     { name: 'Garvit', feesDate: '29 Nov',  status: 'pending' },
 ];
 
