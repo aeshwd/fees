@@ -19,11 +19,7 @@ const players = [
         name: 'Vritika',
         admissionDate: '29-11-2024',
     },
-    {
-        name: 'Pranav',
-        admissionDate: '29-09-2024',
-       
-    },
+   
     {
         name: 'Vaanya',
         admissionDate: '01-10-2024',
