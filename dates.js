@@ -10,21 +10,13 @@ const players = [
         admissionDate: '03-08-2024',
        
     },
-    {
-        name: 'Atharv',
-        admissionDate: '21-08-2024',
-       
-    },
+   
     {
         name: 'Vritika',
         admissionDate: '29-11-2024',
     },
    
-    {
-        name: 'Vaanya',
-        admissionDate: '01-10-2024',
-       
-    },
+   
     {
         name: 'Vega',
         admissionDate: '28-09-2024',
@@ -35,11 +27,7 @@ const players = [
         admissionDate: '06-10-2024',
        
     },
-    {
-        name: 'Yuvraj',
-        admissionDate: '01-10-2024',
-       
-    },
+  
   
     {
         name: 'Devansh',
