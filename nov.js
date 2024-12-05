@@ -15,7 +15,7 @@ const players = [
     { name: 'Blessy', feesDate: '07 Nov',  status: 'paid' }, 
     { name: 'Chinmay', feesDate: '7 Nov',  status: 'paid' },
     { name: 'Gurshabad', feesDate: '21 Nov',  status: 'paid' },
-    { name: 'Garvit', feesDate: '29 Nov',  status: 'pending' },
+    { name: 'Garvit', feesDate: '29 Nov',  status: 'paid' },
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
