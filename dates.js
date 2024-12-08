@@ -39,6 +39,11 @@ const players = [
         admissionDate: '19-10-2024',
        
     },
+     {
+        name: 'kevit',
+        admissionDate: '08-12-2024',
+       
+    },
     { name: 'Garvit', admissionDate: '29-09-2024', },
     { name: 'Kashika', admissionDate: '07-08-2023', },
     { name: 'Vihaan', admissionDate: '01-01-2024', },
