@@ -13,7 +13,7 @@ const players = [
     { name: 'Kashika', feesDate: '07 Dec',  status: 'pending' },
     { name: 'Vihaan', feesDate: '01 Dec',  status: 'paid' },
     { name: 'Aryan', feesDate: '01 Dec',  status: 'paid' },
-    { name: 'Chinmay', feesDate: '7 Dec',  status: 'pending' },
+    { name: 'Chinmay', feesDate: '7 Dec',  status: 'paid' },
     { name: 'Gurshabad', feesDate: '21 Dec',  status: 'pending' }
 ];
 
